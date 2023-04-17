@@ -9,7 +9,7 @@ namespace CrossProject
 {
     // Трехмерные массивы
 
-    class Program
+    class Program // test
     {
         static void Main(string[] args)
         {
